@@ -24,7 +24,7 @@ sudo apt-get install -y git make g++ build-essential libminiupnpc-dev
 
 sudo apt-get install -y libdb++-dev libssl-dev libboost1.48-all libboost-chrono1.48-dev
 
-git clone https://github.com/ZuluFourM1ke/MidasCoin.git 
+git clone https://github.com/Midas-Coin/MidasCoin.git 
 
 cd MidasCoin/src/leveldb
 
