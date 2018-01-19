@@ -41,5 +41,5 @@ sudo apt-get install libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-d
 
 qmake midascoin-qt.pro
 
-Update 18 Jan 2018
+Update 19 Jan 2018
 make
