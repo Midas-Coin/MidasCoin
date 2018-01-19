@@ -7,7 +7,7 @@ Algorithm: SHA256,POW
 Block Reward: 220 Block
 Reward Halving Rate: 144000
 Block time: 120 sec
-Difficulty retarget: Dark Gravity Wave
+Difficulty retarget: Light Neutron Pulse
 Total supply: 65,360,000 
 
 RPC port: 7566
